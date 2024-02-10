@@ -6,3 +6,6 @@
 ::after {
     box-sizing: inherit;
 }
+body {
+    font-family: OpenSans, Arial, sans-serif;
+}
