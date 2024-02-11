@@ -6,8 +6,7 @@ function calc() {
         if(elem % 2 == 0) {
             summ += elem;
         }
-        return;
-    }}
+    }
     return summ;
 }
 calc();
