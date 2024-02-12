@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Hello World!!
 
 Я учусь а Нетологии
@@ -14,4 +14,3 @@
 3. Третье
 =======
 # Hello World!!
->>>>>>> parent of 6a21549... New string
