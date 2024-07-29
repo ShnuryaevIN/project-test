@@ -8,4 +8,15 @@
 }
 body {
     font-family: OpenSans, Arial, sans-serif;
+    font-size: 2em;
+}
+
+ul {
+	padding: 30px;
+	border: 1px solid red;
+}
+li {
+	list-style-type: none;
+	margin-bottom: 20px;
+	border: 1px dashed black;
 }
