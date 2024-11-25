@@ -1,2 +1,2 @@
 let text = document.querySelector("p");
-console.log(text.textContent);
+console.log(text);
